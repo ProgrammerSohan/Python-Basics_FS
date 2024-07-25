@@ -11,12 +11,18 @@
 #myvar3 ="Hi there, this is sohan"
 #print( myvar3.split(",") )
 
-myvar4 = "How are you John?"
+#myvar4 = "How are you John?"
 #print( myvar4.split("o") )
 #print( myvar4[0] )
 #print ( myvar4[6])
 #print ( myvar4[-1] )
-print (myvar4[0:5])
+#print (myvar4[0:5])
+
+first_name = "Sohan"
+last_name = "Sujan"
+
+print(f"Hello {first_name} {last_name}")
+print(f"Last name is {last_name}")
 
 
 
